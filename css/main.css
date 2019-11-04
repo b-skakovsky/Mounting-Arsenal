@@ -1,0 +1,24 @@
+@import url(../libs/bootstrap/css/bootstrap-grid.css);
+@import url(../libs/bootstrap/css/bootstrap-reboot.css);
+@import url(../libs/bootstrap/css/bootstrap.css);
+@import url(../libs/icon/font/flaticon.css);
+@font-face {
+  font-family: "fonts-bold";
+  font-weight: normal;
+  font-style: normal;
+  src: url("../fonts/Casper/CasperBold.eot"); }
+
+html {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box; }
+
+*, *:after, *:before {
+  -webkit-box-sizing: inherit;
+  box-sizing: inherit; }
+
+* {
+  margin: 0;
+  padding: 0; }
+
+body {
+  font-family: "fonts-bold", sans-serif; }
